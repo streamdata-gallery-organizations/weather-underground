@@ -1,6 +1,6 @@
 title: Streamdata Gallery
 url: weather-underground.api.streamdata.gallery
-tag: Temmplate
+tag: Weather Underground
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery-organizations
