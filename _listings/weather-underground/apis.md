@@ -15,8 +15,8 @@ tags:
 - Weather
 - Stack Network
 - Plans
-created: "2018-03-22"
-modified: "2018-03-22"
+created: "2018-03-24"
+modified: "2018-03-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/weather-underground/master/_listings/weather-underground/apis.yaml
 specificationVersion: "0.14"
 apis:
