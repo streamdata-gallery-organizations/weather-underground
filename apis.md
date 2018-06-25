@@ -5,7 +5,7 @@ description: This is a repository of weather underground APIs, self-contained as
   operations.
 image: http://template.streamdata.gallery/assets/weather-underground.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://weather-underground.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
